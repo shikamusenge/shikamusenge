@@ -10,15 +10,15 @@ Here are some ideas to get you started:
 
 ### Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,php,c,python,jsp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,php,c,python,css)](https://skillicons.dev)
 
 ### Framework
 
 [![My Skills](https://skillicons.dev/icons?i=react,express,tailwind,bootstrap,nest)](https://skillicons.dev)
 
-### styling
+### Tool
 
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,vscode,git)](https://skillicons.dev)
 
 ### graphics
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ### Database and ORM
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma)](https://skillicons.dev)
