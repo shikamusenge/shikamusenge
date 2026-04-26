@@ -16,22 +16,79 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
-```typescript
-const philemon = {
-  name:       "Philemon SHIKAMUSENGE",
-  role:       ["Full Stack Dev", "DevOps Engineer", "Security Researcher", "ML Explorer"],
-  location:   "Kigali, Rwanda 🌍",
-  languages:  ["Java", "JavaScript", "TypeScript", "Python", "PHP", "C"],
-  currently:  ["React Projects", "NestJS APIs", "Python Automation", "Docker & K8s"],
-  askMeAbout: ["Java OOP", "Web Dev", "DevOps", "CyberSecurity", "Blockchain", "ML"],
-  funFact:    "I debug with console.log and I'm not ashamed 😄",
-  philosophy: "Code is not just instructions — it's solutions that matter 🌍"
-};
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧬 Identity
+```yaml
+name:     Philemon SHIKAMUSENGE
+pronouns: he / him
+location: Kigali, Rwanda 🌍
+status:   Open to opportunities ●
 ```
+
+### 🎯 Role Stack
+```yaml
+primary:   Full Stack Developer
+devops:    Docker · K8s · Jenkins · CI/CD
+security:  Penetration Tester · CTF Player
+ml:        Neural Nets · Computer Vision
+web3:      Smart Contracts · DeFi · DApps
+```
+
+</td>
+<td valign="top" width="50%">
+
+### 🔭 Currently Building
+```yaml
+frontend:    React + TypeScript Projects
+backend:     NestJS REST & GraphQL APIs
+automation:  Python Scripts & Pipelines
+infra:       Dockerized K8s Deployments
+security:    CTF Challenges & Research
+blockchain:  Solidity Smart Contracts
+ml:          Neural Network Experiments
+```
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🧠 Languages & Tools
+```typescript
+const languages  = ["Java","JS","TS","Python","PHP","C"];
+const frameworks = ["React","NestJS","Express","Tailwind"];
+const devops     = ["Docker","K8s","Jenkins","CI/CD"];
+const databases  = ["MySQL","PostgreSQL","MongoDB","Prisma"];
+const security   = ["Kali","Wireshark","Burp Suite","Nmap"];
+const ml         = ["PyTorch","Scikit-learn","Pandas","NumPy"];
+```
+
+</td>
+<td valign="top">
+
+### 💬 Ask Me About
+```
+✦ Java OOP & Design Patterns
+✦ Full Stack Web Architecture
+✦ Docker & Kubernetes Pipelines
+✦ Cybersecurity & Pen Testing
+✦ Blockchain & Smart Contracts
+✦ Machine Learning & AI
+✦ Debugging & Code Optimization
+```
+
+</td>
+</tr>
+</table>
+
+> 💡 *"I debug with `console.log` and I'm not ashamed 😄 — it's a feature, not a bug."*
+>
+> 🌍 *"Code is not just instructions to the computer — it's a way to **build solutions that matter**."*
 
 ---
 
