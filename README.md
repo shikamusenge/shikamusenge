@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Profile Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=pshikamusenge&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=shikamusenge&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-pshikamusenge.netlify.app-58a6ff?style=flat-square)](https://pshikamusenge.netlify.app)
 ![Pronouns](https://img.shields.io/badge/pronouns-he%2Fhim-3fb950?style=flat-square)
 ![Location](https://img.shields.io/badge/📍-Kigali,_Rwanda-ffa657?style=flat-square)
@@ -39,14 +39,14 @@ const philemon = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pshikamusenge&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshikamusenge&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shikamusenge&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikamusenge&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pshikamusenge&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shikamusenge&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
 </div>
 
